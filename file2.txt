@@ -1,1 +1,2 @@
 foo
+This is a change from developer 1
